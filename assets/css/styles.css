@@ -1,0 +1,43 @@
+.forma{
+    width: 200px;
+    height: 200px;
+    background-color: gray;
+}
+
+.borde{
+    border: solid 2px red;
+}
+
+.imagenes{
+    width: 200px;
+    height: 200px;
+    gap: 30px;
+}
+
+.logos{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.inputs{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+
+.btn{
+    width: 100px;
+    height: 20px;
+}
+
+.text{
+    padding-top: 20px;
+    text-align: center;
+}
+
+.slc{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
